@@ -5,7 +5,6 @@
 I have taken HackerRank [test](https://www.hackerrank.com/skills-verification/sql_basic) on __30th Dec 2022__. 
 Certificate can be viewed [here](https://www.hackerrank.com/certificates/ffac02f3a8bc)
 
-2 Questions are asked, as of now 2 questions will be asked from these questions, provided the solution also:
 ## Programs / Questions
 - [Student Analysis](student-analysis.sql)
 - [Country Codes](country-codes.sql)
